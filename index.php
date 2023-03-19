@@ -229,9 +229,9 @@
                 <section class="bg-[url(../images/service-bg.png)] bg-cover bg-center bg-no-repeat py-14 dark:bg-none lg:py-[100px]">
                     <div class="container">
                         <div class="heading text-center">
-                            <h4>Вебинар как начать? куда идти? Нужные шаги В программировании</h4>
+                            <h6>Вебинар как начать? куда идти? Нужные шаги В программировании</h6>
                         </div>
-                        <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+                        <!-- <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                             <div data-aos="fade-up" data-aos-duration="1000">
                                 <div
                                     class="group rounded-3xl border-2 border-white bg-white p-6 transition duration-500 hover:border-secondary hover:bg-secondary/20 dark:border-white/10 dark:bg-transparent dark:bg-gradient-to-b dark:from-white/[0.04] dark:to-transparent dark:!shadow-none dark:hover:bg-secondary"
@@ -325,7 +325,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </section>
 
